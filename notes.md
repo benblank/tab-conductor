@@ -1,7 +1,9 @@
 ## Name ideas
 
-- Tabber ("Tabbr" already exists)
-- Tabby
+- Tabber (already exists, as does "Tabbr")
+- Tabby (already exists)
+- Tab Commander (already exists)
+- Tab Conductor ("Conductor" already exists)
 
 ## Feature ideas
 
