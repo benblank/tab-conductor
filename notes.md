@@ -14,6 +14,8 @@
     - plain text (indentation? titles?)
     - CSV
     - TSV
+    - "standard" bookmark files (if such a thing exists and needs to be separate
+      from normal HTML)
     - QR code? (is there a standard for multiple URLs in a single code?)
     - app-specific formats?
       - Google Docs
